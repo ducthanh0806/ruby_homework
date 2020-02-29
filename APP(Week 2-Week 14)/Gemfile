@@ -11,7 +11,7 @@ gem 'rails', '~> 5.1.6'
 
 gem 'guard', '~> 2.14', '>= 2.14.1'
 
-gem 'bootstrap-sass', '3.3.7'
+gem 'bootstrap-sass', '3.4.1'
 
 gem 'jquery-rails'
 
